@@ -1,0 +1,17 @@
+/*!
+Theme Name: Morrison Hotel Child
+Theme URI: http://www.demo.lollum.com/morrisonhotel
+Description: Child Theme for Morrison Hotel.
+Tags: black, white, light, brown, left-sidebar, right-sidebar, full-width-template, responsive-layout, accessibility-ready, custom-colors, custom-menu, featured-images, post-formats, sticky-post, theme-options, translation-ready
+Author: Lollum
+Author URI: http://www.lollum.com/
+Template: morrison-hotel
+Version: 1.0.0
+License: The PHP code and integrated HTML are licensed under the General Public
+License (GPL). All other parts, but not limited to the CSS code, images, and design belong to their respective owners.
+License URI: http://www.gnu.org/licenses/gpl-2.0.html - https://help.market.envato.com/hc/en-us/articles/202501064
+*/
+
+@import url('../morrison-hotel/style.css');
+
+/* -------- Theme customization starts here -------- */
